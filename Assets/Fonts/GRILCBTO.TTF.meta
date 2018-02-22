@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f9d1ad23d001a2d43a216aa3a214a5d8
+timeCreated: 1519228119
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GrilledCheese BTN Toasted
+  fontNames:
+  - GrilledCheese BTN Toasted
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
